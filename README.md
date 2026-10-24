@@ -88,7 +88,23 @@ Multi-agent telecom QoS supervision system.
 
 </td>
 <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
+**[CallVerse](https://github.com/doua158/CallVerse)** <sub>(team project)</sub>
+Digital twin of a telecom call center, used to test staffing and support strategies without risking real customers.
+
+- Multi-agent AI service: Customer Advisor and Client Simulator (LangGraph), Workforce Manager (RL, PPO), Quality Analyst (LLM-as-judge)
+- Tool-calling agent with RAG over a pgvector knowledge base
+- Single FastAPI service integrated with a Spring Boot backend and a Next.js frontend
+
+`LangGraph` `FastAPI` `pgvector` `Reinforcement Learning` `Spring Boot`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 **[ArchiGuide](https://github.com/doua158/ArchiGuide)**
 Architectural style recognition system.
 

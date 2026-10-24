@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="./banner.svg" alt="Douaa — banner" width="100%"/>
@@ -88,6 +87,17 @@ Multi-agent telecom QoS supervision system.
 
 </td>
 <td width="50%" valign="top">
+
+**[ArchiGuide](https://github.com/doua158/ArchiGuide)**
+Architectural style recognition system.
+
+- ResNet-101 + EfficientNetV2 ensemble
+- Phi-3 Mini fine-tuned with LoRA
+
+`Computer Vision` `LoRA` `Phi-3`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -102,16 +112,6 @@ Digital twin of a telecom call center, used to test staffing and support strateg
 
 </td>
 <td width="50%" valign="top">
-
-</td>
-</tr>
-**[ArchiGuide](https://github.com/doua158/ArchiGuide)**
-Architectural style recognition system.
-
-- ResNet-101 + EfficientNetV2 ensemble
-- Phi-3 Mini fine-tuned with LoRA
-
-`Computer Vision` `LoRA` `Phi-3`
 
 </td>
 </tr>
